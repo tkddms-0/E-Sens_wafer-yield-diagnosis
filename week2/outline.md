@@ -40,7 +40,7 @@
 
 ---
 
-## 3. 공통 사전 학습 (1주차 모임 전)
+## 3. 공통 학습 (2주차 모임에서 내용 공유 예정)
 
 - [ ] 반도체 8대 공정, 웨이퍼 → 다이 → lot 단위, 수율 정의, Wafer Bin Map 개념
 - [ ] Wu, Jang, Chen, *Wafer Map Failure Pattern Recognition and Similarity Ranking for Large-Scale Data Sets*, IEEE TSM, 2015 — WM-811K 원논문
