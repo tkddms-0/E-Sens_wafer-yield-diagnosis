@@ -42,7 +42,7 @@
 
 ## 3. 공통 학습 (2주차 모임에서 내용 공유 예정)
 
-- [ ] 반도체 8대 공정, 웨이퍼 → 다이 → lot 단위, 수율 정의, Wafer Bin Map 개념
+- [ ] 공정별 결함 유형 파악해오기
 - [ ] Wu, Jang, Chen, *Wafer Map Failure Pattern Recognition and Similarity Ranking for Large-Scale Data Sets*, IEEE TSM, 2015 — WM-811K 원논문
 - [ ] Kaggle에서 `LSWMD.pkl` 다운로드 후 각자 로드해 컬럼 확인
 
