@@ -1,6 +1,5 @@
 # WM-811K 기반 수율 손실 진단 및 계통 불량 식별
 
-> 이 문서는 **6주 · 6회 모임 · 3인 팀** 기준의 학습형 연구 프로젝트 플랜이다.
 > 목표는 웨이퍼맵 분류에서 끝나지 않고, **lot 메타데이터와 다이 단위 수율을 결합해 공정에 대한 유의미한 결론**을 내는 것이다.
 > 참고: [semiconductor-career-prep / project-a-build-guide.md](https://github.com/serithemage/semiconductor-career-prep/blob/main/content/portfolio-projects/project-a-build-guide.md), [domain-knowledge.md](https://github.com/serithemage/semiconductor-career-prep/blob/main/content/domain-knowledge.md)
 
